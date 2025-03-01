@@ -1,2 +1,2 @@
-Overview
+Overview - 
 Designed and developed a Student Database Management System using Python (Tkinter), SQLite, and Pandas to streamline student record management. Implemented CRUD operations (Create, Read, Update, Delete), user authentication, and data validation to ensure efficient data handling and security. Built an interactive GUI with a modular architecture (admin.py, left_frame.py, main.py, right_frame.py), optimizing code reusability and maintainability. Integrated search, filtering, and real-time updates, improving student data accessibility by 40%.
